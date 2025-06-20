@@ -175,11 +175,7 @@ The programs include built-in test cases:
 
 ## 👨‍💻 Author
 
-**Fran Peruso**  
-BSCS 2-C
-Algorithms and Complexity
-Western Mindanao State University
-June 2025
+**Fran Peruso** | BSCS 2-C* | Algorithms and Complexity | Western Mindanao State University | June 2025
 
 ---
 
